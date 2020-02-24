@@ -17,6 +17,13 @@ it's all handled in with this tool.
 npm i -g inithub
 ```
 
+After you have installed the module globally using the above command you can run 
+```bash
+inithub
+```
+from any project folder whether you have already created a project and haven't created a repo
+or one you are building from scratch. Hope you enjoy.
+
 # Steps to install and use
 Please clone or fork then clone from 
 https://github.com/RedHoodJT1988/initHUB
