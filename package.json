@@ -1,12 +1,13 @@
 {
-  "name": "initHub",
+  "name": "init-hub",
   "version": "1.0.0",
-  "description": "",
+  "description": "CLI tool for initializing a repo on GitHub",
   "main": "index.js",
   "bin": {
-    "ginit": "./index.js"
+    "inithub": "./index.js"
   },
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
